@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">Actividad clase 4</string>
+    <string name="app_name" translatable= "false">Actividad clase 4</string>
+    <string name="button_name" translatable="false">rojo</string>
+    <string name="tex_name" translatable="false">ESTO ES UN TEXTO</string>
 </resources>
